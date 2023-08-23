@@ -12,7 +12,7 @@
   },
   "author": "",
   "license": "ISC",
-  "publishConfig: {
+  "publishConfig": {
     "@kemtopher:registry": "https://npm.pkg.github.com"
   }
 }
