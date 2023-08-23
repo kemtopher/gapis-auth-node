@@ -10,9 +10,16 @@
     "type": "git",
     "url": "@kemtopher/gapis-auth-node"
   },
-  "author": "",
+  "author": {
+    "name": "Christopher Kemeza",
+    "email": "dev.kemeza@gmail.com"
+  },
   "license": "ISC",
   "publishConfig": {
     "@kemtopher:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "googleapis": "^126.0.0"
   }
 }
